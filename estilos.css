@@ -1,0 +1,79 @@
+/*body{
+  background-image: url(img/patitas.png);
+  background-size:contain;
+}*/
+.tarjeta{
+    width: 400px;
+    height: 250px;
+}
+.center
+{
+  display: flex;
+  margin: 0 auto;
+}
+
+.philosopher-regular {
+    font-family: "Philosopher", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .philosopher-bold {
+    font-family: "Philosopher", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .philosopher-regular-italic {
+    font-family: "Philosopher", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  .philosopher-bold-italic {
+    font-family: "Philosopher", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+  }
+  
+.icon 
+{
+    height: 30px;
+ width: 30px;
+}
+.carrusel
+{
+ height: 200px;
+ width: 400px;
+}
+
+.cajita1
+{
+    height: 80px;
+    width:  80px;
+    background-color: beige;
+}
+
+.cajita2
+{
+    height: 80px;
+    width:  80px;
+    background-color: rgb(179, 179, 31);
+}
+
+.cajita3
+{
+    height: 80px;
+    width:  80px;
+    background-color:#0444;
+}
+
+
+.contenedor
+{
+    height: 100px;
+    display: flex;
+    background-color:#0444;
+    justify-content: space-around;
+    align-items: center;
+}
